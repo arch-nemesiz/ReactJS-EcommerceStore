@@ -16,7 +16,7 @@ please install these packages
 
 javascript answer
 -------------------
-
+```
 let arr=[1,1,2,4,5,66,6,66,8,];
 let freq={};
 
@@ -34,3 +34,4 @@ for(let i=0;i<arr.length;i++)
 }   
 
 console.log(freq);
+```
